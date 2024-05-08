@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 require 'faraday'
 
 class RickmortyApi::V1::Client
