@@ -1,24 +1,30 @@
-# README
+# Rick and Morty API Ruby Client
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Ruby client provides easy access to the Rick and Morty API, allowing developers to retrieve information about characters, episodes, and more.
 
-Things you may want to cover:
+## Installation
 
-* Ruby version
+1. Clone the repository:
 
-* System dependencies
+```bash
+git clone git@github.com:jewlmils/api-wrapper.git
+```
 
-* Configuration
+2. Navigate to the cloned repository:
 
-* Database creation
+```bash
+cd api-wrapper
+```
 
-* Database initialization
+3. Install dependencies using Bundler:
 
-* How to run the test suite
+```bash
+bundle install
+```
 
-* Services (job queues, cache servers, search engines, etc.)
+## Documentation
 
-* Deployment instructions
+To learn more about using the Rick and Morty API:
 
-* ...
+- **API Website:** [https://rickandmortyapi.com/]
+- **Documentation:** [https://rickandmortyapi.com/documentation]
